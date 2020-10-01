@@ -10,7 +10,7 @@ The course materials are written in markdown.  To build it, I use a slightly mod
 
 ## Contributors
 
-I want you to help me make this the best Intro to Embedded course in existence!  Send me a pull request and I'll add you to the list.
+I want you to help me make this the best Intro to Embedded course in existence!  Send me a pull request and I'll add you to the list.Anyone can send me a pull request.
 
 - [Todd Branchflower](https://github.com/toddbranch)
 - [Kevin Cooper](https://github.com/KevinCooper)
